@@ -1,0 +1,11 @@
+# Caso 1
+Descripción: Caso de prueba con datos de entrada diferentes
+Entrada: datos de entrada para el caso 1
+Salida Esperada: resultado esperado para el caso 1
+
+# Caso 2
+Descripción: Caso de prueba con datos de entrada diferentes
+Entrada: datos de entrada para el caso 2
+Salida Esperada: resultado esperado para el caso 2
+
+# Agrega más casos de prueba aquí

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "description": "Caso de prueba con datos de entrada diferentes",
+        "input": "datos de entrada para el caso 2",
+        "output": "resultado esperado para el caso 2"
+    },
+    {
+        "id": 2,
+        "description": "Caso de prueba con datos de entrada diferentes",
+        "input": "datos de entrada para el caso 2",
+        "output": "resultado esperado para el caso 2"
+    }
+]
